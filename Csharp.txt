@@ -1,1 +1,34 @@
 CLR (common language runtime) общеязыковая среда выполнения
+
+Передача по ссылке
+FooRef(ref x);
+public void FooRef(ref int x)
+{
+    x++;
+}
+
+Вызов функции с out переменной
+FooOut(x, out int temp);
+public void FooOut(int x, out int temp)
+{
+    temp = 3 * x;
+}
+
+Именновая передача параметров
+FooNamed(y: 2, x: 1);
+public void FooNamed(int x, int y)
+{
+     Console.WriteLine(x + ", " + y);
+}
+
+Oбьединение с null
+string y1 = null;
+string y =y1??"no word";
+
+Null условная операция
+string y2 = y1?.ToString();//(y1==null)?y2=null:y2=y1.toString();
+
+string y2 = y1?.ToString()??"no word";// (y1==null)?y1.toString():"no word";
+
+
+
