@@ -1,0 +1,33 @@
+adjacent - [əˈʤeɪsənt] смежный,соседний
+appointment - [əˈpɔɪntmənt] встреча
+binary system - двоичная система
+bottleneck - [ˈbɒtlnek] узкое место
+capacity - [kəˈpæsɪtɪ] емкость
+coat - [kəʊt] покрыт
+coherency - [kəʊˈhɪərənsɪ] когерентность
+computer motherboard - материнская плата компьютера
+crash - [kræʃ] авария,крах,грохот,банкротство,сбой
+electricity supply - поставка электроэнергии
+headphone - [ˈhedfəʊn] наушники,головной телефон
+loudspeaker - [laʊdˈspiːkər] громкоговоритель
+mainframe - [ˈmeɪnfreɪm] мэйнфрейм,центральный процессор,майнфрейм,крейт,универсальная эвм
+multimedia feature - мультимедийные функции
+nuclear research - ядерных исследований
+pen/based - стилус, на основе ручки
+storage medium - носитель
+portable - [ˈpɔːtəbl] портативный,съемный,разборный
+power failure - сбоя питания
+power cord - шнур питания
+to attach - прикрепить
+system bus - системной шины
+speed up - ускорить
+suitable - [ˈsjuːtəbl] подходящий,пригодный,соответствующий,применимый
+personal digital assistant - персональный цифровой помощник
+swipe cards - провести карты
+to measure - для того чтобы измерить
+track - [træk] трек,дорожка,след,колея,гусеница,курс,отслеживание,тропа,рельс,фонограмма,лыжня,ряд
+versatile - [ˈvɜːsətaɪl] универсальный,разносторонний,многосторонний,изменчивый,подвижный
+versatility - [vɜːsəˈtɪlɪtɪ] многосторонность,универсальность,многопрофильность
+viewable - [ˈvjuːəbl] видимый
+write/back cache - обратной записи кэш-памяти
+write/through cache - записи через кэш
